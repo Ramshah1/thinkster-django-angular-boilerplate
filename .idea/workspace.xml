@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cfcbe85-1e47-4130-a528-7d299d1685ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/authentication/authentication.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/authentication/services/authentication.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/authentication/controllers/login.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/templates/authentication/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/authentication/permissions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/authentication/controllers/register.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/templates/authentication/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/thinkster.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/javascripts.html" afterPath="$PROJECT_DIR$/templates/javascripts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/settings.py" afterPath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/javascripts/thinkster.js" afterPath="$PROJECT_DIR$/static/javascripts/thinkster.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py" afterPath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py" />
-    </list>
+    <list default="true" id="0cfcbe85-1e47-4130-a528-7d299d1685ad" name="Default" comment="" />
     <ignored path="thinkster-django-angular-boilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444807936615" ignored="false" />
