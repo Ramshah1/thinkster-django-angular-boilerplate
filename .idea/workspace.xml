@@ -1,19 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cfcbe85-1e47-4130-a528-7d299d1685ad" name="Default" comment="" />
+    <list default="true" id="0cfcbe85-1e47-4130-a528-7d299d1685ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/layout/controllers/index.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/templates/layout/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/layout/layout.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/layout/controllers/navbar.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/posts/controllers/new-post.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/templates/posts/new-post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/permissions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/posts/directives/post.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/templates/posts/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/posts/controllers/posts.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/templates/posts/posts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/posts/posts.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/templates/profiles/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/profiles/services/profile.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/profiles/profiles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/serializers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/utils/services/snackbar.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/utils/utils.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/javascripts/authentication/services/authentication.service.js" afterPath="$PROJECT_DIR$/static/javascripts/authentication/services/authentication.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/javascripts.html" afterPath="$PROJECT_DIR$/templates/javascripts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/navbar.html" afterPath="$PROJECT_DIR$/templates/navbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/settings.py" afterPath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/stylesheets/styles.css" afterPath="$PROJECT_DIR$/static/stylesheets/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/javascripts/thinkster.js" afterPath="$PROJECT_DIR$/static/javascripts/thinkster.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/javascripts/thinkster.routes.js" afterPath="$PROJECT_DIR$/static/javascripts/thinkster.routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py" afterPath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/authentication/views.py" afterPath="$PROJECT_DIR$/authentication/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="thinkster-django-angular-boilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444807936615" ignored="false" />
-    <file path="/models.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444814146767" ignored="false" />
-    <file path="/settings.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444814604887" ignored="false" />
-    <file path="/serializers.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444816936235" ignored="false" />
-    <file path="/views.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444825835792" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444888733714" ignored="false" />
+    <file path="/models.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444902082088" ignored="false" />
+    <file path="/settings.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444901984939" ignored="false" />
+    <file path="/serializers.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444902438071" ignored="false" />
+    <file path="/views.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444892398799" ignored="false" />
     <file path="/permissions.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444819070672" ignored="false" />
-    <file path="/authentication.service.js" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444827809865" ignored="false" />
-    <file path="/urls.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444826221216" ignored="false" />
+    <file path="/authentication.service.js" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444892905752" ignored="false" />
+    <file path="/urls.py" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444903023698" ignored="false" />
     <file path="/login.controller.js" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444828340494" ignored="false" />
     <file path="/register.controller.js" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444828764359" ignored="false" />
+    <file path="/login.html" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444832450928" ignored="false" />
+    <file path="/navbar.controller.js" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444894903291" ignored="false" />
+    <file path="/navbar.html" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444893852504" ignored="false" />
+    <file path="/layout.module.js" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444894084555" ignored="false" />
+    <file path="/thinkster.js" changelist="0cfcbe85-1e47-4130-a528-7d299d1685ad" time="1444894155463" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,77 +67,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="68" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="authentication.service.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/services/authentication.service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="0.43227667">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.controller.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/controllers/register.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#157#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thinkster.routes.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/javascripts/thinkster.routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="18" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="javascripts.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/javascripts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="120" selection-start="1904" selection-end="1904" vertical-scroll-proportion="-14.375">
+            <state line="36" column="110" selection-start="3295" selection-end="3295" vertical-scroll-proportion="-6.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/templates/authentication/login.html">
+      <file leaf-file-name="profile.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/templates/profiles/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="6" selection-start="928" selection-end="928" vertical-scroll-proportion="-18.75">
+            <state line="13" column="6" selection-start="328" selection-end="328" vertical-scroll-proportion="0.29104477">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="permissions.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/authentication/permissions.py">
+      <file leaf-file-name="profile.service.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/javascripts/profiles/services/profile.service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.controller.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/controllers/login.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="5" selection-start="796" selection-end="796" vertical-scroll-proportion="0.0">
+            <state line="15" column="30" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#157#0" expanded="false" />
               </folding>
@@ -111,10 +96,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="authentication.module.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/authentication.module.js">
+      <file leaf-file-name="profiles.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/javascripts/profiles/profiles.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="5" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+            <state line="22" column="5" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#157#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/stylesheets/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="1" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new-post.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/templates/posts/new-post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="1" selection-start="109" selection-end="109" vertical-scroll-proportion="-2.8333333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.directive.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/javascripts/posts/directives/post.directive.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="3" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#157#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts.controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/javascripts/posts/controllers/posts.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="0" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#157#0" expanded="false" />
               </folding>
@@ -125,8 +150,19 @@
       <file leaf-file-name="thinkster.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/javascripts/thinkster.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="1" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
+            <state line="11" column="8" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new-post.controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/javascripts/posts/controllers/new-post.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#157#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,22 +185,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/authentication/models.py" />
-        <option value="$PROJECT_DIR$/authentication/serializers.py" />
-        <option value="$PROJECT_DIR$/authentication/permissions.py" />
-        <option value="$PROJECT_DIR$/static/templates/authentication/register.html" />
-        <option value="$PROJECT_DIR$/static/javascripts/thinksters.routes.js" />
-        <option value="$PROJECT_DIR$/static/javascripts/authentication/authentication.module.js" />
-        <option value="$PROJECT_DIR$/static/javascripts/thinkster.config.js" />
-        <option value="$PROJECT_DIR$/static/javascripts/thinkster.js" />
-        <option value="$PROJECT_DIR$/authentication/views.py" />
-        <option value="$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py" />
-        <option value="$PROJECT_DIR$/static/javascripts/authentication/services/authentication.service.js" />
-        <option value="$PROJECT_DIR$/static/templates/authentication/login.html" />
-        <option value="$PROJECT_DIR$/static/javascripts/authentication/controllers/login.controller.js" />
         <option value="$PROJECT_DIR$/static/javascripts/thinkster.routes.js" />
+        <option value="$PROJECT_DIR$/static/javascripts/posts/directives/posts.directives.js" />
+        <option value="$PROJECT_DIR$/static/javascripts/posts/directives/posts.directive.js" />
+        <option value="$PROJECT_DIR$/static/javascripts/posts/controllers/posts.controller.js" />
+        <option value="$PROJECT_DIR$/static/templates/posts/posts.html" />
+        <option value="$PROJECT_DIR$/static/javascripts/posts/directives/post.directive.js" />
+        <option value="$PROJECT_DIR$/static/templates/posts/post.html" />
+        <option value="$PROJECT_DIR$/static/templates/layout/index.html" />
+        <option value="$PROJECT_DIR$/static/stylesheets/styles.css" />
+        <option value="$PROJECT_DIR$/static/templates/posts/new-post.html" />
+        <option value="$PROJECT_DIR$/static/javascripts/posts/controller/new-post.controller.js" />
+        <option value="$PROJECT_DIR$/static/javascripts/profiles/profiles.js" />
+        <option value="$PROJECT_DIR$/static/javascripts/thinkster.js" />
+        <option value="$PROJECT_DIR$/static/javascripts/profiles/services/profile.service.js" />
         <option value="$PROJECT_DIR$/templates/javascripts.html" />
-        <option value="$PROJECT_DIR$/static/javascripts/authentication/controllers/register.controller.js" />
+        <option value="$PROJECT_DIR$/static/templates/profiles/profile.html" />
       </list>
     </option>
   </component>
@@ -229,7 +265,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="thinkster_django_angular_boilerplate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,7 +287,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="authentication" />
+              <option name="myItemId" value="profiles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,6 +304,10 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -280,24 +320,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkster-django-angular-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkster-django-angular-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="authentication" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -323,6 +345,11 @@
     <option name="myDjangoConsoleState">
       <PyConsoleSettings />
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/javascripts/posts/controllers" />
+    </key>
   </component>
   <component name="RunManager" selected="Django server.thinkster-django-angular-boilerplate">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -465,23 +492,23 @@
     <frame x="57" y="-4" width="1543" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22638983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22237107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -545,71 +572,92 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/authentication/models.py">
+    <entry file="file://$PROJECT_DIR$/static/javascripts/thinkster.routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="185" selection-end="185" vertical-scroll-proportion="-3.0">
-          <folding>
-            <element signature="e#0#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thinkster_django_angular_boilerplate/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="857" selection-end="857" vertical-scroll-proportion="-2.96">
+        <state line="29" column="2" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/authentication/register.html">
+    <entry file="file://$PROJECT_DIR$/static/javascripts/layout/controllers/index.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="475" selection-end="475" vertical-scroll-proportion="-8.166667">
-          <folding>
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1444820041722" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+        <state line="7" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascripts/thinkster.config.js">
+    <entry file="file://$PROJECT_DIR$/static/templates/posts/posts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+        <state line="6" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/javascripts/posts/directives/posts.directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="20" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/posts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="6" selection-start="430" selection-end="430" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/layout/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="53" selection-start="387" selection-end="387" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/stylesheets/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/javascripts/posts/controllers/posts.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#157#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authentication/serializers.py">
+    <entry file="file://$PROJECT_DIR$/static/templates/posts/new-post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="15" selection-start="156" selection-end="156" vertical-scroll-proportion="-0.0">
+        <state line="7" column="1" selection-start="109" selection-end="109" vertical-scroll-proportion="-2.8333333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/javascripts/posts/controllers/new-post.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#56#0" expanded="true" />
+            <element signature="e#0#157#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authentication/views.py">
+    <entry file="file://$PROJECT_DIR$/static/javascripts/posts/directives/post.directive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="26" selection-start="1724" selection-end="1734" vertical-scroll-proportion="-5.580645">
+        <state line="25" column="3" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#157#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/controllers/login.controller.js">
+    <entry file="file://$PROJECT_DIR$/static/javascripts/profiles/profiles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="796" selection-end="796" vertical-scroll-proportion="0.0">
+        <state line="22" column="5" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#157#0" expanded="false" />
           </folding>
@@ -618,44 +666,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/javascripts/thinkster.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
+        <state line="11" column="8" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascripts/thinkster.routes.js">
+    <entry file="file://$PROJECT_DIR$/static/javascripts/profiles/services/profile.service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="18" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/authentication/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="6" selection-start="928" selection-end="928" vertical-scroll-proportion="-18.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication/permissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/controllers/register.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#157#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/authentication.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+        <state line="15" column="30" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#157#0" expanded="false" />
           </folding>
@@ -664,23 +682,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/javascripts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="120" selection-start="1904" selection-end="1904" vertical-scroll-proportion="-14.375">
+        <state line="36" column="110" selection-start="3295" selection-end="3295" vertical-scroll-proportion="-6.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py">
+    <entry file="file://$PROJECT_DIR$/static/templates/profiles/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="68" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascripts/authentication/services/authentication.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="0.43227667">
+        <state line="13" column="6" selection-start="328" selection-end="328" vertical-scroll-proportion="0.29104477">
           <folding />
         </state>
       </provider>

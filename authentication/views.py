@@ -1,14 +1,14 @@
 from django.shortcuts import render
 import json
 from rest_framework import permissions, viewsets
-from django.contrib.auth import authenticate, login
+from django.contrib.auth import authenticate, login, logout
 from authentication.models import Account
 from authentication.permissions import IsAccountOwner
 from authentication.serializers import AccountSerializer
 
 from rest_framework import status, views
 from rest_framework.response import Response
-
+from rest_framework import permissions
 # Create your views here
 #
 class AccountViewSet(viewsets.ModelViewSet):
@@ -65,3 +65,51 @@ class LoginView(views.APIView):
                 'status': 'Unauthorized',
                 'message': 'Username/password combination invalid.'
             }, status=status.HTTP_401_UNAUTHORIZED)
+
+
+class LogoutView(views.APIView) :
+    permission_classes = (permissions.IsAuthenticated,)
+
+    def post(self, request, format=None):
+        logout(request)
+
+        return Response({}, status=status.HTTP_204_NO_CONTENT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
